@@ -35,5 +35,5 @@ Interested in joining? [How to join / contact info / meeting times]
 ---
 
 <div align="center">
-<sub>Built by students at [University of Victoria]</sub>
+<sub>Built by students at the University of Victoria</sub>
 </div>
