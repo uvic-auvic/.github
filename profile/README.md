@@ -3,7 +3,7 @@
 # AUVIC 🌊
 ### Autonomous Underwater Vehicles Interdisciplinary Club
 
-[Website](https://auvic.ca/) · [Documentation](#) · [Instagram](#) · [Contact](auvic@uvic.ca)
+[Website](https://auvic.ca/) · [LinkedIn](https://www.linkedin.com/company/auvic-uvic/) · [Instagram](#) · [Contact](auvic@uvic.ca)
 
 </div>
 
@@ -27,6 +27,8 @@ AUVIC is a student club building autonomous underwater vehicles (AUVs)
 | [`firmware`](#) | Embedded/microcontroller firmware | [`Wiki`](#)
 
 > New here? Start with our [Getting Started](#) page for docker setup guides, basic information, and how to get involved.
+
+## Our Team
 
 ## Get involved
 
