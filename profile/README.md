@@ -3,7 +3,7 @@
 # AUVIC 🌊
 ### Autonomous Underwater Vehicles Interdisciplinary Club
 
-[Website](https://auvic.ca/) · [Documentation](#) · [Instagram](#) · [Contact](#)
+[Website](https://auvic.ca/) · [Documentation](#) · [Instagram](#) · [Contact](auvic@uvic.ca)
 
 </div>
 
@@ -15,18 +15,18 @@ AUVIC is a student club building autonomous underwater vehicles (AUVs)
 
 ## What we're building
 
-- 🐢 **[Snappy]** - our main submarine, in active development
-- 🐬 **[Mini-Sub]** - our smallest submarine, upgrades in progress
-- 🐙 **[Jelly]** - next-generation build, kicking off 2027
+- 🐢 **Snappy** - our main submarine, in active development
+- 🐬 **Mini-Sub** - our smallest submarine, upgrades in progress
+- 🐙 **Jelly** - next-generation build, kicking off 2027
 
 ## Repositories
 
-| Repo | What's in it |
-|---|---|
-| [`Snappy software`](#) | Core control software, mission logic for Snappy|
-| [`firmware`](#) | Embedded/microcontroller firmware |
+| Repo | What's in it | Documentation |
+|---|---|---|
+| [`Snappy2027`](#) | Core control software, mission logic for Snappy| [`Snappy Wiki`](https://github.com/uvic-auvic/Snappy2027/wiki)
+| [`firmware`](#) | Embedded/microcontroller firmware | [`Wiki`](#)
 
-> New here? Start with our [Wiki](#) for setup guides, subsystem docs, and how to get involved.
+> New here? Start with our [Getting Started](#) page for docker setup guides, basic information, and how to get involved.
 
 ## Get involved
 
