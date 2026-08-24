@@ -16,7 +16,7 @@ AUVIC is a student club building autonomous underwater vehicles (AUVs)
 ## What we're building
 
 - 🐢 **Snappy** - our main submarine, in active development
-- 🐬 **Mini-Sub** - our smallest submarine, upgrades in progress
+- 🦟 **Mayfly** - our smallest submarine, upgrades in progress
 - 🐙 **Jelly** - next-generation build, kicking off 2027
 
 ## Repositories
