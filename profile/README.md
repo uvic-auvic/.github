@@ -23,7 +23,7 @@ AUVIC is a student club building autonomous underwater vehicles (AUVs)
 
 | Repo | What's in it | Documentation |
 |---|---|---|
-| [`Snappy2027`](#https://github.com/uvic-auvic/Snappy2027) | Core control software, mission logic for Snappy| [`Snappy Wiki`](https://github.com/uvic-auvic/Snappy2027/wiki)
+| [`Snappy2027`](https://github.com/uvic-auvic/Snappy2027) | Core control software, mission logic for Snappy| [`Snappy Wiki`](https://github.com/uvic-auvic/Snappy2027/wiki)
 | [`firmware`](#) | Embedded/microcontroller firmware | [`Wiki`](#)
 
 > New here? Start with our [Getting Started](#) page for docker setup guides, basic information, and how to get involved.
